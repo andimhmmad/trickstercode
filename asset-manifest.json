@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/trickstercode/static/css/main.1e53d1aa.css",
-    "main.js": "/trickstercode/static/js/main.e8672992.js",
+    "main.js": "/trickstercode/static/js/main.e5503337.js",
     "static/js/453.5631a300.chunk.js": "/trickstercode/static/js/453.5631a300.chunk.js",
     "static/media/rusunkite.png": "/trickstercode/static/media/rusunkite.f618efdded7a78ef0de4.png",
     "static/media/gamers.png": "/trickstercode/static/media/gamers.9b287157114558fe315f.png",
@@ -27,11 +27,11 @@
     "static/media/nav-icon1.svg": "/trickstercode/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/trickstercode/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.1e53d1aa.css.map": "/trickstercode/static/css/main.1e53d1aa.css.map",
-    "main.e8672992.js.map": "/trickstercode/static/js/main.e8672992.js.map",
+    "main.e5503337.js.map": "/trickstercode/static/js/main.e5503337.js.map",
     "453.5631a300.chunk.js.map": "/trickstercode/static/js/453.5631a300.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e53d1aa.css",
-    "static/js/main.e8672992.js"
+    "static/js/main.e5503337.js"
   ]
 }
